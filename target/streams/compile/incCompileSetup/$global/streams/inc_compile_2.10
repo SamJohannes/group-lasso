@@ -1,0 +1,466 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+33 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/BlockSize$.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/BlockSize.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$11.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$12.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$13.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$14.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$15.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$16.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$17.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$18$$anonfun$19.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$18.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$20.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$21.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$1.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$10.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$2.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$3.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$4.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$5.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$6.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$7.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$8.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$9.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$22.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$23.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$24$$anonfun$apply$1.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$24.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$.class
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso.class
+binary dependencies:
+5 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /Users/elSamu/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.BlockSize
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.BlockSize$
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$11
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$12
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$13
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$14
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$15
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$16
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$17
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$18
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$18$$anonfun$19
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$20
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnMatrix$$anonfun$21
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$1
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$10
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$3
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$4
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$5
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$6
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$7
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$8
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.ColumnVector$$anonfun$9
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso$
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso$$anonfun$22
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso$$anonfun$23
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso$$anonfun$24
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso.Lasso$$anonfun$24$$anonfun$apply$1
+used names:
+282 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> &&
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> *
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> +
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ++
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> -
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ->
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> /
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> :*
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ::
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> :=
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> <
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> <=
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> <init>
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ==
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> >
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> A
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> AbstractFunction2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Aixi
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> AnyRef
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ArgMap
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Array
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> At
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> AtA
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Axbar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> AxbarHat
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> BDM
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> BDV
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> BSV
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> BV
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> BlockSize
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Boolean
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Breaks
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Broadcast
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ClassTag
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ColumnMatrix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ColumnVector
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> DenseMatrix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> DenseVector
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Double
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> DoubleZero
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Field
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> HashPartitioner
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Int
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Lasso
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Level
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> List
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Logger
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Logging
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Long
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> M
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Map
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> N
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Nil
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> None
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> OFF
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Ordering
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Predef
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Product
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> RDD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ScalaRunTime
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Semiring
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Serializable
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> SparkConf
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> SparkContext
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> SparseVector
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Statics
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> String
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> StringContext
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> System
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Tuple2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Unit
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Vector
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> Zero
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> \
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> _1
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> _2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> _3
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> _4
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> _toString
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> a
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> absTol
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> alpha
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> any2ArrowAssoc
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> apache
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> apply
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> argToMap
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> args
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> asInstanceOf
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> augmentString
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> b
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> blockSize
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> blocks
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> break
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> breakable
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> breeze
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> broadcast
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> cache
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canAddD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canBuildFrom
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canNorm
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canSliceCol
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canSubD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> canTranspose
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ceil
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> collect
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> conf
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> contains
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> control
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> copy
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> count
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> current
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> currentTimeMillis
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> delim
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> deltaz
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> dv_dv_UpdateOp_Double_OpSet
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> dv_s_Op_Double_OpDiv
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> dv_s_Op_Double_OpMulMatrix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> dv_s_Op_Double_OpMulScalar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> elements
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> epsDual
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> epsPri
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> eq
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> eye
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> fieldDouble
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> fin
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> finalizeHash
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> first
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> floor
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> frob
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> fromTextFile
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> g
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> getLogger
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> gram
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> gram_size
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> group
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> groupByKey
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> groupLines
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> hasNext
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> i
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> immutable
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> implOpMulMatrix_DMD_DMD_eq_DMD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> implOpMulMatrix_DMD_DVD_eq_DVD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> implOpSolveMatrixBy_DMD_DVD_eq_DVD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> intWrapper
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> isInstanceOf
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> it
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> iterator
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> java
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> join
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> k
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> keyName
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lambda
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lang
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lasso
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> length
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> linalg
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lines
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> list
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> log4j
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> logStdout
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> lower
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> m
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> map
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> mapValues
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> mat
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> mat_rdd
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> materializeClassTag
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> math
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> matrix_fid
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> max
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> maxIters
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> mix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> msg
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> mu
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> multiply
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> n
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> nblocks
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ncols
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ne
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> newSize
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> next
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ni
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> norm
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> nrows
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> nu
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> nums
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> objective
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> objval
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> op_DM_DM_Double_OpAdd
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> op_DM_S_Double_OpMulMatrix
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> org
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> other
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> p
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> package
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> parallelMultiply
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> parallelize
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> parseArgs
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> partitionBy
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> pow
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> power
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> println
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> q
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> qual$1
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> qual$2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> qual$3
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> qual$4
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> quiet
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> rNorm
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> rdd
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> rddToPairRDDFunctions
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> refArrayOps
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> relTol
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> rho
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> rows
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> runtime
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> s
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> sNorm
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> sc
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> scala
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> scalar
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> semiringD
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> setAppName
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> setLevel
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> setMaster
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> shrink
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> shrunkx
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> size
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> spark
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> split
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> sqrt
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> stop
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> storage
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> stream
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> sum
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> t
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> tail
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> textFile
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> that
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> time
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> to
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> toDouble
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> toInt
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> toList
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> toString
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> tot
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> transpose
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> treeReduce
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> typedProductIterator
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> u
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> unary_!
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> unary_-
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> unchecked
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> update
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> upper
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> util
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> v
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> value
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> values
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> vars
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> vec
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> vec_rdd
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> vector_fid
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> while$1
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> while$2
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> while$3
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> while$4
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$10
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$11
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$12
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$13
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$8
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> x$9
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> xHat
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> y
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> z
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> zeros
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> zerox
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> zold
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> zs
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> zsold
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> ||
+product stamps:
+33 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/BlockSize$.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/BlockSize.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$11.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$12.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$13.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$14.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$15.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$16.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$17.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$18$$anonfun$19.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$18.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$20.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$$anonfun$21.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix$.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnMatrix.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$1.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$10.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$2.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$3.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$4.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$5.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$6.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$7.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$8.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$$anonfun$9.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector$.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/ColumnVector.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$22.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$23.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$24$$anonfun$apply$1.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$$anonfun$24.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso$.class -> lastModified(1455256287000)
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/target/scala-2.10/classes/lasso/Lasso.class -> lastModified(1455256287000)
+source stamps:
+1 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> hash(eaa7cd17f46fb694e92fa2e3fa6691d0d2fa7d56)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/elSamu/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1396501213000)
+/Users/elSamu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> lastModified(1447165215000)
+/Users/elSamu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1395179187000)
+/Users/elSamu/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.12.jar -> lastModified(1453036762000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/elSamu/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Logger
+/Users/elSamu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.Logging
+/Users/elSamu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.Serializable
+/Users/elSamu/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.12.jar -> breeze.linalg.SparseVector
+internal apis:
+1 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB1CxWgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAATHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cENk1pF0AAduYmxvY2tzc3EAfgAMKCvadXQABm5vdGlmeXNxAH4ADDrqGUh0ABZmcm9tVGV4dEZpbGUkZGVmYXVsdCQ0c3EAfgAM63gdvHQABGdyYW1zcQB+AAztrBr9dAAEd2FpdHNxAH4ADGlaA2p0AAEqc3EAfgAMWy+THHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMWnNVbnQADSRhc0luc3RhbmNlT2ZzcQB+AAwE4SmDdAAMZnJvbVRleHRGaWxlc3EAfgAMXO3ZhHQABHNpemVzcQB+AAyqHI/tdAAFc29sdmVzcQB+AAw7RWTRdAAMcHJvZHVjdEFyaXR5c3EAfgAMnaUK8nQABmVxdWFsc3NxAH4ADI/qf450AAV6ZXJvc3NxAH4ADJVbcbN0AA9sYXNzbyRkZWZhdWx0JDdzcQB+AAz7uJc8dAADbWF0c3EAfgAMcZuBEHQADGFzSW5zdGFuY2VPZnNxAH4ADHzHEZF0AARsb2dfc3EAfgAMYYeY8HQADHN5bmNocm9uaXplZHNxAH4ADJBTHK50AAxDb2x1bW5WZWN0b3JzcQB+AAz8p1qzdAANJGlzSW5zdGFuY2VPZnNxAH4ADBGqRMB0AAlCbG9ja1NpemVzcQB+AAyHVzlydAAIbG9nVHJhY2VzcQB+AAyfkbh3dAAIY2FuRXF1YWxzcQB+AAwjqCOCdAAOaXNUcmFjZUVuYWJsZWRzcQB+AAyfjo7xdAAEbWFpbnNxAH4ADFeAptl0AAxDb2x1bW5NYXRyaXhzcQB+AAx4ogaxdAANcHJvZHVjdFByZWZpeHNxAH4ADJeTz290ABBsYXNzbyRkZWZhdWx0JDEwc3EAfgAMZsrzYnQAB2xvZ05hbWVzcQB+AAzYQFDwdAAJbm90aWZ5QWxsc3EAfgAMrFV/RnQABnNocmlua3NxAH4ADIKceGx0AAVsYXNzb3NxAH4ADAaN0XV0AAlsb2dTdGRvdXRzcQB+AAzuJs0UdAAFY2FjaGVzcQB+AAzwEn8ldAABLXNxAH4ADJb67IV0AAxpc0luc3RhbmNlT2ZzcQB+AAypKJn9dAAFbmNvbHNzcQB+AAw3RFXYdAAFbnJvd3NzcQB+AAyhHgMBdAAFTGFzc29zcQB+AAzgNaIqdAAJb2JqZWN0aXZlc3EAfgAMDB6M7HQABjxpbml0PnNxAH4ADIXOBkB0AARmcm9ic3EAfgAMkooVaHQABG5vcm1zcQB+AAw05ZmzdAACPT1zcQB+AAy4yWWNdAAIYXJnVG9NYXBzcQB+AAww4yI+dAAFY2xvbmVzcQB+AAxkX19udAAJcGFyc2VBcmdzc3EAfgAMGG0ebXQACG11bHRpcGx5c3EAfgAMjHdemHQAEHBhcmFsbGVsTXVsdGlwbHlzcQB+AAxBEgXqdAAEY29weXNxAH4ADGoamnx0AAh0b1N0cmluZ3NxAH4ADGI1S7p0AA9sYXNzbyRkZWZhdWx0JDlzcQB+AAyMUA8FdAABK3NxAH4ADN3ExxJ0AAhsb2dFcnJvcnNxAH4ADOOi8CR0AAIhPXNxAH4ADK5ggeR0AAl0cmFuc3Bvc2VzcQB+AAzKZX+ldAAIZ2V0Q2xhc3NzcQB+AAyQJ08vdAAKbG9nV2FybmluZ3NxAH4ADCXdRIp0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNI33AN0ABVpbml0aWFsaXplSWZOZWNlc3NhcnlzcQB+AAxq/yfCdAACbmVzcQB+AAwlc17ZdAAObm9ybSRkZWZhdWx0JDFzcQB+AAyb7IaxdAAPbGFzc28kZGVmYXVsdCQ4c3EAfgAMlnzQWXQABkFyZ01hcHNxAH4ADPiFAHF0AAN2ZWNzcQB+AAzHqRujdAACZXFzcQB+AAzmETYRdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMiFYtEnQAA2xvZ3NxAH4ADJDIje10AAIjI3NxAH4ADCRidk90AAhmaW5hbGl6ZXNxAH4ADEuxsNF0AA5wcm9kdWN0RWxlbWVudHNxAH4ADJz0zLV0AAhoYXNoQ29kZXNxAH4ADAlgfox0AAhsb2dEZWJ1Z3NxAH4ADGtYVwJ0AAdsb2dJbmZvc3EAfgAM6m2JC3QAEWluaXRpYWxpemVMb2dnaW5nc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ar3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2xhc3NvLkJsb2NrU2l6ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgDHAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCvTAAJaW5oZXJpdGVkcQB+AK9MAAdwYXJlbnRzcQB+AK94cQB+AM5zcQB+AMcBdXEAfgCqAAAAAHBzcQB+AMcBdXEAfgCqAAAAAHBzcQB+AMcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDNdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDnc3EAfgDacQB+AN1zcQB+AN5zcQB+AOF1cQB+AOQAAAADc3EAfgDmdAAEamF2YXNxAH4A5nQAAmlvcQB+AOtzcQB+ANp0AAdQcm9kdWN0cQB+AOBzcQB+ANp0AAZFcXVhbHNxAH4A4HNxAH4A2nQABk9iamVjdHNxAH4A3nNxAH4A4XVxAH4A5AAAAANzcQB+AOZxAH4A8XNxAH4A5nQABGxhbmdxAH4A63NxAH4A2nQAA0FueXEAfgDgcHBzcQB+AKxxAH4AuXVxAH4AugAAAABzcQB+ALwAdAASbGFzc28uQ29sdW1uVmVjdG9ydXEAfgC/AAAAAHEAfgDDdXEAfgDFAAAAAHNxAH4AxwFxAH4Az3BzcQB+AMcBc3EAfgDRc3EAfgDHAXVxAH4AqgAAAABwc3EAfgDHAXVxAH4AqgAAAABwc3EAfgDHAXVxAH4A2AAAAAJzcQB+ANpxAH4A+XNxAH4A3nNxAH4A4XVxAH4A5AAAAANzcQB+AOZxAH4A8XNxAH4A5nEAfgD/cQB+AOtzcQB+ANpxAH4BAXNxAH4A3nNxAH4A4XVxAH4A5AAAAAJzcQB+AOZxAH4A6XEAfgDrcHBzcQB+AKxxAH4AuXVxAH4AugAAAABzcQB+ALwAdAASbGFzc28uQ29sdW1uVmVjdG9ydXEAfgC/AAAAAH5xAH4AwXQABk1vZHVsZXVxAH4AxQAAAABzcQB+AMcBcQB+AM9wc3EAfgDHAXNxAH4A0XNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+ANgAAAACc3EAfgDacQB+APlzcQB+AN5zcQB+AOF1cQB+AOQAAAADc3EAfgDmcQB+APFzcQB+AOZxAH4A/3EAfgDrc3EAfgDacQB+AQFzcQB+AN5zcQB+AOF1cQB+AOQAAAACc3EAfgDmcQB+AOlxAH4A63Bwc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHQAEmxhc3NvLkNvbHVtbk1hdHJpeHVxAH4AvwAAAABxAH4Aw3VxAH4AxQAAAABzcQB+AMcBcQB+AM9wc3EAfgDHAXNxAH4A0XNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+ANgAAAACc3EAfgDacQB+APlzcQB+AN5zcQB+AOF1cQB+AOQAAAADc3EAfgDmcQB+APFzcQB+AOZxAH4A/3EAfgDrc3EAfgDacQB+AQFzcQB+AN5zcQB+AOF1cQB+AOQAAAACc3EAfgDmcQB+AOlxAH4A63Bwc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHQAEmxhc3NvLkNvbHVtbk1hdHJpeHVxAH4AvwAAAABxAH4BIXVxAH4AxQAAAABzcQB+AMcBcQB+AM9wc3EAfgDHAXNxAH4A0XNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+ANgAAAACc3EAfgDacQB+APlzcQB+AN5zcQB+AOF1cQB+AOQAAAADc3EAfgDmcQB+APFzcQB+AOZxAH4A/3EAfgDrc3EAfgDacQB+AQFzcQB+AN5zcQB+AOF1cQB+AOQAAAACc3EAfgDmcQB+AOlxAH4A63Bwc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHQAC2xhc3NvLkxhc3NvdXEAfgC/AAAAAHEAfgEhdXEAfgDFAAAAAHNxAH4AxwFxAH4Az3BzcQB+AMcBc3EAfgDRc3EAfgDHAXVxAH4AqgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AsHEAfgC5dXEAfgC6AAAAAHNxAH4AvABxAH4AQXVxAH4AvwAAAABzcQB+ANp0AARVbml0c3EAfgDec3EAfgDhdXEAfgDkAAAAAnNxAH4A5nEAfgDpcQB+AOt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgF4eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDCdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDNc3EAfgDadAAFQXJyYXlxAH4BgHVxAH4A2AAAAAFzcQB+ANp0AAZTdHJpbmdzcQB+AN5zcQB+AOF1cQB+AOQAAAADc3EAfgDmcQB+APFzcQB+AOZxAH4A/3EAfgDrcHNxAH4AxwF1cQB+AKoAAAAAcHNxAH4AxwF1cQB+ANgAAAADc3EAfgDadAAHTG9nZ2luZ3NxAH4A3nNxAH4A4XVxAH4A5AAAAARzcQB+AOZ0AANvcmdzcQB+AOZ0AAZhcGFjaGVzcQB+AOZ0AAVzcGFya3EAfgDrc3EAfgDacQB+APlxAH4BmnNxAH4A2nEAfgEBcQB+AYBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABWxhc3Nvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFS1AiYoHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFIvVXNlcnMvZWxTYW11L0Rlc2t0b3AvQ29udmV4X09wdGltaXNhdGlvbi9zcF9ncm91cF9sYXNzby90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6qfNF/RvtpTpL6Lj+maR0NL6fVY=
+external apis:
+0 items
+source infos:
+1 items
+/Users/elSamu/Desktop/Convex_Optimisation/sp_group_lasso/src/main/scala/lasso/group_lasso.scala -> 
+AAAAAAAAAAUAAAEAAAAcADggICAgdmFsIG4gPSB2ZWMubWFwVmFsdWVze3ggPT4gbWF0aC5wb3coeC5ub3JtKCkscG93ZXIpfQEAAAMDAQAAACoBACogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAF8vVXNlcnMvZWxTYW11L0Rlc2t0b3AvQ29udmV4X09wdGltaXNhdGlvbi9zcF9ncm91cF9sYXNzby9zcmMvbWFpbi9zY2FsYS9sYXNzby9ncm91cF9sYXNzby5zY2FsYQEAXy9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3NyYy9tYWluL3NjYWxhL2xhc3NvL2dyb3VwX2xhc3NvLnNjYWxhAFltZXRob2Qgbm9ybSBpbiB0cmFpdCBJbW11dGFibGVOdW1lcmljT3BzIGlzIGRlcHJlY2F0ZWQ6IFVzZSBub3JtKFhYWCkgaW5zdGVhZCBvZiBYWFgubm9ybQEAAAEAAAEZACUgICAgICBpZiAobWF0aC5zcXJ0KHEubm9ybSgpKSA8IG11KSB7AQAAH3EBAAAAFgEAFiAgICAgICAgICAgICAgICAgICAgICABAF8vVXNlcnMvZWxTYW11L0Rlc2t0b3AvQ29udmV4X09wdGltaXNhdGlvbi9zcF9ncm91cF9sYXNzby9zcmMvbWFpbi9zY2FsYS9sYXNzby9ncm91cF9sYXNzby5zY2FsYQEAXy9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3NyYy9tYWluL3NjYWxhL2xhc3NvL2dyb3VwX2xhc3NvLnNjYWxhAFltZXRob2Qgbm9ybSBpbiB0cmFpdCBJbW11dGFibGVOdW1lcmljT3BzIGlzIGRlcHJlY2F0ZWQ6IFVzZSBub3JtKFhYWCkgaW5zdGVhZCBvZiBYWFgubm9ybQEAAAEAAAElACYgICAgICAgIGlmIChudSA+IChtdSAvIHhIYXQubm9ybSgpKSkgewEAACE/AQAAABwBABwgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBfL1VzZXJzL2VsU2FtdS9EZXNrdG9wL0NvbnZleF9PcHRpbWlzYXRpb24vc3BfZ3JvdXBfbGFzc28vc3JjL21haW4vc2NhbGEvbGFzc28vZ3JvdXBfbGFzc28uc2NhbGEBAF8vVXNlcnMvZWxTYW11L0Rlc2t0b3AvQ29udmV4X09wdGltaXNhdGlvbi9zcF9ncm91cF9sYXNzby9zcmMvbWFpbi9zY2FsYS9sYXNzby9ncm91cF9sYXNzby5zY2FsYQBZbWV0aG9kIG5vcm0gaW4gdHJhaXQgSW1tdXRhYmxlTnVtZXJpY09wcyBpcyBkZXByZWNhdGVkOiBVc2Ugbm9ybShYWFgpIGluc3RlYWQgb2YgWFhYLm5vcm0BAAABAAABOgBOICAgIHZhbCBwID0gLjUgKiBtYXRoLnBvdygoKHoqTi50b0RvdWJsZSkgLSBiKS5ub3JtKCksIDIpICsgbGFtYmRhICogeC5ub3JtKDEpAQAAIu0BAAAALwEALyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBfL1VzZXJzL2VsU2FtdS9EZXNrdG9wL0NvbnZleF9PcHRpbWlzYXRpb24vc3BfZ3JvdXBfbGFzc28vc3JjL21haW4vc2NhbGEvbGFzc28vZ3JvdXBfbGFzc28uc2NhbGEBAF8vVXNlcnMvZWxTYW11L0Rlc2t0b3AvQ29udmV4X09wdGltaXNhdGlvbi9zcF9ncm91cF9sYXNzby9zcmMvbWFpbi9zY2FsYS9sYXNzby9ncm91cF9sYXNzby5zY2FsYQBZbWV0aG9kIG5vcm0gaW4gdHJhaXQgSW1tdXRhYmxlTnVtZXJpY09wcyBpcyBkZXByZWNhdGVkOiBVc2Ugbm9ybShYWFgpIGluc3RlYWQgb2YgWFhYLm5vcm0BAAABAAABfAAzICAgICAgdmFsIHJOb3JtID0gbWF0aC5zcXJ0KE4pICogKHogLSBBeGJhcikubm9ybSgpAQAAKzgBAAAALQEALSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAXy9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3NyYy9tYWluL3NjYWxhL2xhc3NvL2dyb3VwX2xhc3NvLnNjYWxhAQBfL1VzZXJzL2VsU2FtdS9EZXNrdG9wL0NvbnZleF9PcHRpbWlzYXRpb24vc3BfZ3JvdXBfbGFzc28vc3JjL21haW4vc2NhbGEvbGFzc28vZ3JvdXBfbGFzc28uc2NhbGEAWW1ldGhvZCBub3JtIGluIHRyYWl0IEltbXV0YWJsZU51bWVyaWNPcHMgaXMgZGVwcmVjYXRlZDogVXNlIG5vcm0oWFhYKSBpbnN0ZWFkIG9mIFhYWC5ub3JtAQ==
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUtONNCx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUtON44N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUtOQKWd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUtORI7B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUtQImKB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9lbFNhbXUvRGVza3RvcC9Db252ZXhfT3B0aW1pc2F0aW9uL3NwX2dyb3VwX2xhc3NvL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv
