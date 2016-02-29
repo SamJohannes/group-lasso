@@ -1,0 +1,144 @@
+#!/bin/bash
+#
+# run -U spark-master-url:port
+#
+# Run scaling tests for matrix-vector multiplication
+# =================================================
+# Author: Michael B Hynes, mbhynes@uwaterloo.ca
+# License: GPL 3
+# Creation Date: Tue 21 Jul 2015 06:12:38 PM EDT
+# Last Modified: Sun 28 Feb 2016 11:07:00 PM EST
+# ==================================================""
+
+# set defaults
+lambda=2
+alpha=1
+rho=10
+partitions_per_core=1
+SPARK_WORKER_CORES=16
+
+# program variables defaults
+export JAVA_HOME=/usr/lib/jvm/java-7-oracle/
+root=$PWD
+version=1.0
+scala_version=2.11
+cmd=spark-submit
+class=lasso.Lasso
+name=lasso
+package=lasso
+jar=$package"_$scala_version-$version.jar"
+# path=$root/target/scala-$scala_version
+jarfile=$(find $PWD/../target -name $jar) 
+
+SCRIPT_NAME=$(basename $0)
+msg () {
+	echo "$SCRIPT_NAME: $@" 1>&2
+}
+warn () {
+	msg WARNING: $@
+}
+error () {
+	msg ERROR: $@
+}
+
+sqrt() { x="$1";
+	python3 <(echo "
+import math
+print(math.ceil(math.sqrt($x)));
+	")
+}
+
+gen_param_grid_dirname() {
+	prefix="$1"
+	echo "$prefix"
+}
+
+run_test() {
+	spark-run \
+ 		$executor_memory_flag \
+		-m "$spark_master_url" \
+		-d "$output_dir" \
+		-C "$class" \
+		-N "$name" \
+		"$jarfile" \
+		--rho $rho --lambda $lambda --vector $vec_fin --alpha $alpha --matrix $mat_fin --partitions $num_parts 
+		# --checkpoint "$SPARK_CHECKPOINT_DIR" -N $n -k $numIters -p $rho -s $seed $@
+}
+
+run_all_tests() {
+	for rho in ${rho_array[@]}; do
+		run_test
+	done
+}
+
+if (($# == 0)); then
+	disp_opts -n 10 -h $0 2>/dev/null
+	exit 0
+fi
+
+optstring="r:l:v:a:m:p:d:U:M:k:"
+while getopts "$optstring" opt; do
+	case "$opt" in
+		r)
+			read -a rho_array <<<"$OPTARG"
+			;;
+		d)
+			prefix_dir="$OPTARG"
+			;;
+		U)
+			spark_master_url="$OPTARG"
+			;;
+		p)
+			num_partitions="$OPTARG"
+			;;
+		M)
+			executor_memory_flag="-M $OPTARG"
+			;;
+		k)
+			numIters="$OPTARG"
+			;;
+    a)
+      alpha="$OPTARG"
+      ;;
+		v)
+			vec_fin="$OPTARG"
+			;;
+		m)
+			mat_fin="$OPTARG"
+			;;
+		:)
+			error "-$opt requires argument" 
+			;; 
+		?)
+			error invalid option
+			;; 
+	esac
+done
+shift $((OPTIND - 1))
+
+# =================================================
+if [ -z "$spark_master_url" ]; then
+	error "Specify -U master:port"
+	exit 1
+fi
+
+if [ -z "$SPARK_CHECKPOINT_DIR" ]; then
+	warn "env variable SPARK_CHECKPOINT_DIR is unspecified!"
+fi
+
+if [ -z "$SPARK_WORKER_CORES" ]; then
+	SPARK_WORKER_CORES=16
+	warn "$SPARK_WORKER_CORES unspecified; using $SPARK_WORKER_CORES. This may be a bad magic number."
+fi
+
+# enter the -d <prefix_directory> if given 
+if [ -n "$prefix_dir" ] && mkdir -p "$prefix_dir"; then
+	cd "$prefix_dir"
+fi
+
+data_dir=$(newdir -t '%Y.%m.%d' $name)
+cd $data_dir
+
+num_failures=0
+run_all_tests
+exit $num_failures
