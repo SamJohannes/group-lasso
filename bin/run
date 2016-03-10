@@ -7,7 +7,7 @@
 # Author: Michael B Hynes, mbhynes@uwaterloo.ca
 # License: GPL 3
 # Creation Date: Tue 21 Jul 2015 06:12:38 PM EDT
-# Last Modified: Sun 28 Feb 2016 11:07:00 PM EST
+# Last Modified: Wed 09 Mar 2016 09:19:21 PM EST
 # ==================================================""
 
 # set defaults
@@ -79,6 +79,9 @@ fi
 optstring="r:l:v:a:m:p:d:U:M:k:"
 while getopts "$optstring" opt; do
 	case "$opt" in
+		l)
+			lambda="$OPTARG"
+			;;
 		r)
 			read -a rho_array <<<"$OPTARG"
 			;;

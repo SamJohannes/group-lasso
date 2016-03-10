@@ -5,13 +5,13 @@
 # Author: Michael B Hynes, mbhynes@uwaterloo.ca
 # License: GPL 3
 # Creation Date: Sun 28 Feb 2016 10:51:58 PM EST
-# Last Modified: Sun 28 Feb 2016 11:13:58 PM EST
+# Last Modified: Wed 09 Mar 2016 09:13:50 PM EST
 # =================================================
 
-master=himrod-big-2
+master=himrod-big-1
 port=7073
 master_url=$master:$port
-num_nodes=16
+num_nodes=4
 mat_fin=$PWD/mat_test_data.txt
 vec_fin=$PWD/vec_test_data.txt
 

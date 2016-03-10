@@ -2,11 +2,11 @@ name := "lasso"
 
 version := "1.0"
 
-scalaVersion := "2.10.4"
+scalaVersion := "2.11.4"
 
 organization := "himrod"
 
-libraryDependencies += "org.apache.spark" %% "spark-core" % "1.5.2"
+libraryDependencies += "org.apache.spark" %% "spark-core" % "1.5.2" % "provided"
 
 //libraryDependencies += "org.apache.spark" %% "spark-mllib" % "1.5.2" % "provided"
 
